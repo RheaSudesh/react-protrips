@@ -1,0 +1,26 @@
+h1{
+    color: white;
+    margin-top: 10%;
+    text-align: center;
+    background-color: rgb(34,47,62);
+}
+table, th, td {
+
+    margin-left: 20%;
+    margin-top: -15%;
+    color: white;
+    background-color: rgb(34,47,62);
+  }
+
+  table {
+    width: 60%;
+    background-color: rgb(34,47,62);
+  }
+
+  th {
+    border-bottom: 1px solid black;
+    height: 70px;
+  }
+  tbody{
+      text-align: center;
+  }

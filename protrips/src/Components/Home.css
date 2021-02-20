@@ -1,0 +1,35 @@
+img{
+    background-color: rgb(34,47,62);
+}
+.nav-bar{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 200px;
+}
+button{
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: xx-large;
+    margin: -28% 0% 0% 48%;
+}
+.info-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8%;
+}
+.count-container{
+    display: flex;
+    justify-content: space-around;
+    color:  rgb(34,47,62)
+
+}
+.count-value{
+    margin-left: -90%;
+}
